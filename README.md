@@ -1,6 +1,6 @@
 <h1 align="center">GM/GN 👋👋👋, 
 My name is Delingo</h1>
-<h3 align="center">A music-loving male from the Planet Earth. Passionate about decentralized systems, blockchain, and the emerging opportunities they bring to reshape the digital landscape</h3>
+<h3 align="center">A music-loving male from the Planet Earth. Passionate about decentralized systems, blockchain, and the emerging opportunities they bring to reshape the digital landscape.</h3>
 
 - 🔭 I’m currently working on **the secret project**
 
