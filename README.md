@@ -2,13 +2,13 @@
 My name is Delingo</h1>
 <h3 align="center">A music-loving male from the Planet Earth. Passionate about decentralized systems, blockchain, and the emerging opportunities they bring to reshape the digital landscape.</h3>
 
-- 🔭 I’m currently working on **the secret project**
+- 🔭 I’m currently working on **the secret project.**
 
-- 🌱 I’m currently learning **GitHub**
+- 🌱 I’m currently learning **GitHub.**
 
-- 👯 I’m interested in **Web3 technologies**
+- 👯 I’m interested in **Web3 technologies.**
 
-- ⚡ Fun fact **Did you know that music is not only popular among humans on Earth but also resonates with beings from other planets? Our passionate music-loving male from Earth has a unique connection to extraterrestrial civilizations through his love for music**
+- ⚡ Fun fact **Did you know that music is not only popular among humans on Earth but also resonates with beings from other planets? Our passionate music-loving male from Earth has a unique connection to extraterrestrial civilizations through his love for music.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
